@@ -1,14 +1,14 @@
 [
     {
         "extension": ".vim-session",
-        "command" : "konsole -e nvim -S",
+        "command" : "warp-terminal -e nvim -S",
         "isCLI" : true,
         "display_name" : "Neovim",
         "icon" : "images/nvim.png"
     },
     {
         "extension": ".code-workspace",
-        "command" : "code",
+        "command" : "code-insiders",
         "isCLI" : true,
         "display_name" : "VSCode",
         "icon" : "images/vscode.png"
